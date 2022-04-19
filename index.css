@@ -1,0 +1,106 @@
+body{
+     background-color: #d6fc9c;
+}
+
+#welcome{
+     text-align: center;
+     margin-top: 1%;
+     border-bottom-color: green;
+     border-bottom-width: 3px;
+     border-bottom-style: dashed;
+}
+
+.slogo{
+     height: 20px;
+     width: 20px;
+}
+
+#name{
+     font-size: 34px;
+     font-weight: bold;
+     color: #0c410c;
+     text-align: center;
+}
+
+#intro{
+     font-size: 26px;
+     margin-top: 2%;
+     margin-left: 10%;
+     margin-right: 10%;
+}
+
+.under{
+     border-bottom-color: green;
+     border-bottom-width: 2px;
+     border-bottom-style: solid;
+}
+
+.question{
+     font-size: 25px;
+     font-family: Verdana;
+     margin-top: 2%;
+}
+
+.answer{
+     font-size: 28px;
+     font-family: Gill Sans;
+     margin-left: 2%;
+}
+
+.paragh{
+     font-size: 24px;
+     font-weight: bold;
+     font-family: Georgia;
+     margin-top: 1%;
+     text-align: center;
+}
+
+.parag{
+     font-size: 24px;
+     font-family: Georgia;
+     margin-top: 1%;
+}
+
+#picshow{
+
+     width: 400px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 5%;
+     margin-bottom: 5%;
+}
+
+.carousel-item > img{
+     height: 180px;
+}
+
+.card{
+     background-color: #d6fc9c;
+}
+
+#conc{
+     border-top-color: green;
+     border-top-width: 3px;
+     border-top-style: dashed;
+}
+
+#introd{
+     font-size: 26px;
+     text-align: center;
+     margin-top: 2%;
+}
+
+#thank{
+     font-size: 34px;
+     font-weight: bold;
+     color: #0c410c;
+     text-align: center;
+     border-bottom-color: green;
+     border-bottom-width: 2px;
+     border-bottom-style: solid;
+}
+
+#copy{
+     text-align: center;
+     font-size: 30px;
+}
